@@ -24,7 +24,7 @@ upload all of the code onto the online repo. it will ask you to login first
 
 1. **cloning:** <br/>
 use git clone url to get a repo off of github if its not already on your machine
-1. **make a branch:**
+1. **make a branch:** <br/>
 use git branch name to make a new branch so that current working code in master is safe and backup and there is a new safe enviroment to code and make changes
 1. **switch to new branch:** <br/>
 switch to the new branch with git checkout nameOfBranch
